@@ -15,6 +15,7 @@
     margin-bottom: 0;
     flex: 0 1 100%;
 }
+
 .places > article {
     width: 390px;
     padding: 20px;
@@ -48,6 +49,7 @@
     top: 10px;
     right: 20px;
 }
+
 .price_by_night > p {
     margin: 0;
 }
@@ -102,6 +104,7 @@
     margin-top: 20px;
     margin-bottom: 0;
 }
+
 .description > p {
     margin-top: 7px;
     margin-bottom: 0;
