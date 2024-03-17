@@ -14,7 +14,7 @@ section.filters button{
     color: white;
     background-color: #FF5A5F;
     height: 48px;
-    border: 0px;
+    border: 0;
     border-radius: 4px;
     width: 20%;
     margin-left: auto;
@@ -38,7 +38,7 @@ section.filters button:hover {
 
 .locations h3, .amenities h3 {
     font-weight: 600;
-    margin: 12px 0 5px 0;
+    margin: 12px 0 5px;
 }
 
 .locations h4, .amenities h4 {
